@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #212121;
+}
+/* header */
+.header1{
+    background-color: #424242;
+}
+.next-icon{
+    color: #FAFAFA;
+}
+.header2{
+    background-color: #212121;
+}
+/* search */
+.search-input{
+    outline:none;
+}
+/* sell item */
+.sell-text1{
+    font-size: 13px;
+}
+.sell-text2{
+    font-size: 13px;
+}
+.sell-price1{
+    font-size: 12px;
+}
+.sell-price2{
+    font-size: 12px;
+
+}
+.sell-off{
+    font-size: 12px;
+}
+/* footer */
+.footer{
+    background-color: #424242;
+}
+.social-media-box{
+    background-color: #9E9E9E;
+}
+.line1{
+    color: black;
+    width: 100%;
+}
+.info-box{
+    background-color:#424242 ;
+}
+.info-text1{
+    color: #BDBDBD;
+}
+.footer-box{
+    background-color: #424242;
+}
+.stat{
+    background-color: #03A9F4;
+}
+.text-sign1{
+    font-family:Dancing Script;
+    font-size: 50px;
+}
+.link{
+    text-decoration: none;
+}
