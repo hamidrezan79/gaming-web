@@ -16,6 +16,8 @@ body {
 
 .header2 {
     background-color: #212121;
+    /* margin-left: 0;
+    margin-right: 0; */
 }
 
 /* search */
@@ -94,3 +96,12 @@ body {
 /* .h{
 margin-top: 100px;    
 } */
+.day-text{
+    font-size: 12px;
+}
+.box2{
+    opacity: 70%;
+}
+.box2:hover{
+opacity: 100%;
+}
