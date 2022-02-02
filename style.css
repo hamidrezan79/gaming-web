@@ -1,69 +1,96 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: #212121;
 }
+
 /* header */
-.header1{
+.header1 {
     background-color: #424242;
 }
-.next-icon{
+
+.next-icon {
     color: #FAFAFA;
 }
-.header2{
+
+.header2 {
     background-color: #212121;
 }
+
 /* search */
-.search-input{
-    outline:none;
+.search-input {
+    outline: none;
 }
+
 /* sell item */
-.sell-text1{
+.sell-text1 {
     font-size: 13px;
 }
-.sell-text2{
+
+.sell-text2 {
     font-size: 13px;
 }
-.sell-price1{
+
+.sell-price1 {
     font-size: 12px;
 }
-.sell-price2{
+
+.sell-price2 {
     font-size: 12px;
 
 }
-.sell-off{
+
+.sell-off {
     font-size: 12px;
 }
+
 /* footer */
-.footer{
+.footer {
     background-color: #424242;
 }
-.social-media-box{
+
+.social-media-box {
     background-color: #9E9E9E;
 }
-.line1{
+
+.line1 {
     color: black;
     width: 100%;
 }
-.info-box{
-    background-color:#424242 ;
-}
-.info-text1{
-    color: #BDBDBD;
-}
-.footer-box{
+
+.info-box {
     background-color: #424242;
 }
-.stat{
+
+.info-text1 {
+    color: #BDBDBD;
+}
+
+.footer-box {
+    background-color: #424242;
+}
+
+.stat {
     background-color: #03A9F4;
 }
-.text-sign1{
-    font-family:Dancing Script;
+
+.text-sign1 {
+    font-family: Dancing Script;
     font-size: 50px;
 }
-.link{
+
+.link {
     text-decoration: none;
 }
 
-
+.box:hover {
+    margin-top: -20px;
+    transition: all .7s ease;
+}
+.filter{
+    background-color: #424242;
+}
+/* .h{
+margin-top: 100px;    
+} */
