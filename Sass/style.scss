@@ -1,25 +1,22 @@
+@import"./color";
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #212121;
+    background-color: $back-color;
 }
-
 /* header */
 .header1 {
-    background-color: #424242;
+    background-color: $header-color;
 }
 
 .next-icon {
-    color: #FAFAFA;
+    color: $icon-color;
 }
 
 .header2 {
-    background-color: #212121;
-    /* margin-left: 0;
-    margin-right: 0; */
+    background-color: $back-color;
 }
-
 /* search */
 .search-input {
     outline: none;
@@ -49,33 +46,30 @@ body {
 
 /* footer */
 .footer {
-    background-color: #424242;
+    background-color: $header-color;
 }
 
 .social-media-box {
-    background-color: #9E9E9E;
+    background-color: $main-color;
 }
 
 .line1 {
-    color: black;
+    color:$black-color;
     width: 100%;
 }
 
 .info-box {
-    background-color: #424242;
+    background-color: $header-color;
 }
 
 .info-text1 {
-    color: #BDBDBD;
+    color: $text-color;
 }
 
 .footer-box {
-    background-color: #424242;
+    background-color: $header-color;
 }
 
-.stat {
-    background-color: #03A9F4;
-}
 
 .text-sign1 {
     font-family: Dancing Script;
@@ -91,11 +85,8 @@ body {
     transition: all .7s ease;
 }
 .filter{
-    background-color: #424242;
+    background-color: $header-color;
 }
-/* .h{
-margin-top: 100px;    
-} */
 .day-text{
     font-size: 12px;
 }
@@ -104,4 +95,4 @@ margin-top: 100px;
 }
 .box2:hover{
 opacity: 100%;
-}
+}   
